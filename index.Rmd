@@ -795,11 +795,13 @@ knitr::include_graphics("img/porto.png")
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
 knitr::include_graphics("img/neigh.png")
 ``` 
+
 ---
-#
+
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
 knitr::include_graphics("img/wlak.png")
 ``` 
+
 ---
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
@@ -818,6 +820,7 @@ knitr::include_graphics("img/ev.png")
 ```{r echo=FALSE, message=FALSE, warning=FALSE, out.width="50%"}
 knitr::include_graphics("img/car.png")
 ``` 
+
 ---
 
 # Ev Trucks
@@ -831,11 +834,4 @@ class: center, middle
 .larger[
 **DÚVIDAS?**
 ]
-
----
-
-## Atividades para a semana
-
-- Atividades de aprendizagem 1, 2 e 3
-- Visualizar documentos (vídeos e links) nesta apresentação
 
